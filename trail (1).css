@@ -1,0 +1,56 @@
+.he{
+    text-align: center;
+    margin-top: 150px;
+    color: rgb(127, 255, 161);
+}
+
+.for{
+   
+    display: block;
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-bottom: 50px;
+}
+.d1{
+    margin-left: 40px;
+    margin-right: 40px;
+    width: 300px;
+}
+
+.container{
+
+    display:flex;
+    background-color: #00ffdd;
+    list-style: none;
+    float: left;
+    width: 350px;
+    border-radius: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-style: none;
+    
+
+}
+
+.list{
+    display:block;
+    outline: none;
+}
+
+.inp{
+    border: none;
+    outline: none;
+    background-color: #00ffdd;
+    
+}
+.sp{
+    padding-left: 100px;
+   display: flex;
+}
+.st{
+    float: right;
+    padding-left: 1000px;
+}
